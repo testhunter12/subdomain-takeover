@@ -1,1 +1,1 @@
-# subdomain-takeover
+hacker0x01
